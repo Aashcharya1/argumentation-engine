@@ -1,0 +1,21 @@
+MUTUAL ATTACK: all semantics and legal labellings
+grounded [[]]
+complete [[], ['a'], ['b']]
+preferred [['a'], ['b']]
+stable [['a'], ['b']]
+semi-stable [['a'], ['b']]
+Legal labellings: [{'a': 'undec', 'b': 'undec'}, {'a': 'in', 'b': 'out'}, {'a': 'out', 'b': 'in'}]
+
+Example 5.10
+Truthful outcome: ['a1', 'a3']
+Truthful utilities: [1, 0, 1]
+Agent x best responses: [2, [['a4', 'a5']]]
+Exact strategyproofness: [false, {"agent": 0, "others_profile": [["a1", "a4", "a5"], ["a2"], ["a3"]], "truthful_utility": 1, "best_utility": 2, "best_reports": [["a4", "a5"]]}]
+Odd-walk condition: [False, ['a1', 'a2', 'a3', 'a4']]
+
+Example 5.11
+Truthful outcome: ['a1', 'a4', 'a5', 'a6']
+Truthful utilities: [4, 0, 0]
+Agent x best responses: [4, [['a1', 'a4', 'a5', 'a6']]]
+Exact strategyproofness: [true, null]
+Odd-walk condition: [False, ['a1', 'a2', 'a3', 'a4']]

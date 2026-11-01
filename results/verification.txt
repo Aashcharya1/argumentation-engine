@@ -1,0 +1,4 @@
+8 unittest cases passed, including 512 graphs checked against independent legal labellings.
+5000 records agree with summary CSV.
+All 3980 stored profitable deviations replayed successfully.
+Browser verified: book 5.10 outcome and utilities; book 5.11 strategyproof=true, condition=false.
