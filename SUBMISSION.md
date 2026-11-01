@@ -1,5 +1,7 @@
 # What to submit
 
+Public repository: https://github.com/Aashcharya1/argumentation-engine
+
 Submit the complete `argumentation-engine-submission.zip` from the parent folder, plus the public GitHub repository link if your course portal accepts one.
 
 The ZIP contains:
